@@ -1,7 +1,7 @@
 # 💫 About Me:
-Software Engineer and Computer Science graduate from the University of Delaware with experience building scalable backend
-systems and full-stack applications. Proficient in Java, Spring Boot, and RESTful API development, with working knowledge of
-SQL, React and a strong foundation in object-oriented design and software engineering best practices. Passionate about building efficient, maintainable software systems and contributing to high-impact engineering teams.
+## Software Engineer and Computer Science graduate from the University of Delaware with experience building scalable backend
+## systems and full-stack applications. Proficient in Java, Spring Boot, and RESTful API development, with working knowledge of
+## SQL, React and a strong foundation in object-oriented design and software engineering best practices. Passionate about building efficient, ## maintainable software systems and contributing to high-impact engineering teams.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/bryant-ferguson) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bryantferguson826@gmail.com) 
